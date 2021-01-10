@@ -1,0 +1,13 @@
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.csprojAssemblyReference.cache
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.AssemblyInfoInputs.cache
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.AssemblyInfo.cs
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.csproj.CoreCompileInputs.cache
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.exe
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.deps.json
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.runtimeconfig.json
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.runtimeconfig.dev.json
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.dll
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\bin\Debug\netcoreapp3.1\DIO.Serie.pdb
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.dll
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.pdb
+C:\Users\holan\Documents\Digitalinovation\bootcamp\Labs\projects\DIO.series\obj\Debug\netcoreapp3.1\DIO.Serie.genruntimeconfig.cache

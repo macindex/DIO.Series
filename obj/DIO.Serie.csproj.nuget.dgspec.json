@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.Serie\\DIO.Serie.csproj": {}
+    "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.series\\DIO.Serie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.Serie\\DIO.Serie.csproj": {
+    "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.series\\DIO.Serie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.Serie\\DIO.Serie.csproj",
+        "projectUniqueName": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.series\\DIO.Serie.csproj",
         "projectName": "DIO.Serie",
-        "projectPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.Serie\\DIO.Serie.csproj",
+        "projectPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.series\\DIO.Serie.csproj",
         "packagesPath": "C:\\Users\\holan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.Serie\\obj\\",
+        "outputPath": "C:\\Users\\holan\\Documents\\Digitalinovation\\bootcamp\\Labs\\projects\\DIO.series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holan\\AppData\\Roaming\\NuGet\\NuGet.Config",
